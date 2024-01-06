@@ -1,6 +1,9 @@
 # DCGAN
 This repository hosts an implementation of a Deep Convolutional Generative Adversarial Network (DCGAN) tailored specifically for generating unique Pokémon images. With this model, explore the world of Pokémon through AI-generated creations.
+
+
 Features:
+
 1. Diverse Pokémon Generation
 Generate a diverse range of Pokémon images leveraging the power of DCGAN. From classic favorites to entirely new and imaginative creatures, witness the AI's creativity.
 
