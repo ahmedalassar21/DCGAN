@@ -20,7 +20,11 @@ A user-friendly interface to interact with the model, enabling seamless generati
 Assess the quality of generated Pokémon using various evaluation metrics such as Inception Score, Frechet Inception Distance (FID), and more.
 
 How to Use:
+
 Dataset Preparation: Obtain the Pokémon dataset or use preprocessed data to train the DCGAN model.
+
 Training: Train the model by running the provided scripts or notebooks, adjusting parameters as needed.
+
 Generation: Generate Pokémon images using the trained model and explore the diverse set of outputs.
+
 Fine-tuning: Experiment with different settings and techniques to enhance or customize the generated Pokémon.
